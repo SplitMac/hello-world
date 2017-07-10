@@ -2,5 +2,5 @@
 the first github repository ive ever created
 
 test test 123
-the fitsnessgram pacer test is a multi-stage aerobic exam
-hashtag_yeet
+this has been a successful test of creating changes, removing some changes manually, and then updating all the changes. 
+hooray, i know how to use the bare bones of github...
